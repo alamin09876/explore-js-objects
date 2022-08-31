@@ -25,3 +25,6 @@ const remaning = person.treatDey(900, 100);
 console.log(remaning)
 const dolaRemaning = person.treatDey(500, 50);
 console.log(dolaRemaning)
+
+const obj ={a:1, b:7, c:3, length:2};
+console.log(Object.keys(obj).length);
